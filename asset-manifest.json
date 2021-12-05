@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sailwind-companion/static/css/main.7aaf6cb7.chunk.css",
+    "main.js": "/sailwind-companion/static/js/main.5ef35ead.chunk.js",
+    "main.js.map": "/sailwind-companion/static/js/main.5ef35ead.chunk.js.map",
+    "runtime-main.js": "/sailwind-companion/static/js/runtime-main.ed673536.js",
+    "runtime-main.js.map": "/sailwind-companion/static/js/runtime-main.ed673536.js.map",
+    "static/js/2.91a6fb1f.chunk.js": "/sailwind-companion/static/js/2.91a6fb1f.chunk.js",
+    "static/js/2.91a6fb1f.chunk.js.map": "/sailwind-companion/static/js/2.91a6fb1f.chunk.js.map",
+    "static/js/3.77773909.chunk.js": "/sailwind-companion/static/js/3.77773909.chunk.js",
+    "static/js/3.77773909.chunk.js.map": "/sailwind-companion/static/js/3.77773909.chunk.js.map",
+    "index.html": "/sailwind-companion/index.html",
+    "static/css/main.7aaf6cb7.chunk.css.map": "/sailwind-companion/static/css/main.7aaf6cb7.chunk.css.map",
+    "static/js/2.91a6fb1f.chunk.js.LICENSE.txt": "/sailwind-companion/static/js/2.91a6fb1f.chunk.js.LICENSE.txt",
+    "static/media/map_final_aestrin.9651b847.jpg": "/sailwind-companion/static/media/map_final_aestrin.9651b847.jpg",
+    "static/media/map_final_al_ankh.70de4685.jpg": "/sailwind-companion/static/media/map_final_al_ankh.70de4685.jpg",
+    "static/media/map_final_emerald_archipelago.2f524505.jpg": "/sailwind-companion/static/media/map_final_emerald_archipelago.2f524505.jpg",
+    "static/media/map_final_ocean.917e93d6.jpg": "/sailwind-companion/static/media/map_final_ocean.917e93d6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed673536.js",
+    "static/js/2.91a6fb1f.chunk.js",
+    "static/css/main.7aaf6cb7.chunk.css",
+    "static/js/main.5ef35ead.chunk.js"
+  ]
+}
